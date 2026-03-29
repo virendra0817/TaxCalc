@@ -1,4 +1,4 @@
-# TaxPilot — Indian Finance Calculators
+# TaxCalc — Indian Finance Calculators
 
 A modern, full-featured Indian tax and finance calculator suite built with **Next.js 14**, **Tailwind CSS**, **shadcn/ui**, and **NextAuth.js**.
 
@@ -56,7 +56,7 @@ A modern, full-featured Indian tax and finance calculator suite built with **Nex
 
 ```bash
 git clone <your-repo-url>
-cd taxpilot
+cd taxcalc
 npm install
 ```
 
